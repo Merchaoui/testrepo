@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its a markdown file in this repo
+This repository is for the first assignment of the coursera course: IBM Data Science Professional Certificate
